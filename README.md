@@ -22,6 +22,7 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/BNP.svg" alt="BNP Logo" width="50" height="50"> | BNP Latest Promotions |  N.A
 | ⭐ | <img src="public/BANK-OF-CHINA.jpeg" alt="BANK_OF_CHINA Logo" width="60" height="15"> | Bank Of China Latest Promotions |  https://www.bankofchina.com/sg/bocinfo/bi2/
 | ⭐ | <img src="public/RHB.webp" alt="RHB Logo" width="60" height="15"> | RHB Latest Promotions |  https://www.rhbgroup.com/latest-promotions/index.html
+| ⭐ | <img src="public/POSB.webp" alt="POSB Logo" width="60" height="15"> | POSB Latest Promotions |  https://www.posb.com.sg/personal/cards/promotions/default.page
 
 
 [⬆️ Go to Top](#table-of-contents)
