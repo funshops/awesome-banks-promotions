@@ -28,5 +28,7 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/BNI.svg" alt="BNI Logo" width="60" height="15"> | BNI Bank Latest Promotions | https://www.bni.co.id/en-us/home/bni-promotion-events/banking-promotions
 | ⭐ | <img src="public/SBI.png" alt="SBI Logo" width="60" height="15"> | SBI Bank Latest Promotions | https://sg.statebank/sgd-promotions
 | ⭐ | <img src="public/ICICI.png" alt="ICICI Logo" width="60" height="15"> | ICICI Bank Latest Promotions | https://www.icicibank.com/offers
+| ⭐ | <img src="public/ANZ.png" alt="ANZ Logo" width="60" height="15"> | ANZ Bank Latest Promotions | https://www.anz.com.au/personal/credit-cards/offers/
+
 
 [⬆️ Go to Top](#table-of-contents)
