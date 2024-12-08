@@ -15,6 +15,8 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/TRUST-BANK.svg" alt="TRUST-BANK Logo" width="50" height="50"> | Trust Bank Latest Promotions |  https://trustbank.sg/earn-linkpoints/
 | ⭐ | <img src="public/CITI.svg" alt="CITI Logo" width="50" height="50"> | Citi Bank Latest Promotions |  https://www.citibank.com.sg/static/all-promo
 | ⭐ | <img src="public/HSBC.svg" alt="HSBC Logo" width="50" height="50"> | HSBC Bank Latest Promotions |  https://www.hsbc.com.sg/promotions/
+| ⭐ | <img src="public/GSX.png" alt="GSX Logo" width="20" height="20"> | GXS Bank Latest Promotions |  https://www.gxs.com.sg/rewards-boost
+
 
 
 [⬆️ Go to Top](#table-of-contents)
