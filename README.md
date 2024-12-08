@@ -20,7 +20,7 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/BANK-OF-SG.png" alt="Bank of Singapore Logo" width="40" height="40"> | Bank of Singapore Latest Promotions |  https://www.bankofsingapore.com/all-events.html?
 | ⭐ | <img src="public/MAYBANK.png" alt="MayBank Logo" width="50" height="50"> | MayBank Latest Promotions |  https://www.maybank2u.com.sg/en/promotions/deposits/index.page
 | ⭐ | <img src="public/BNP.svg" alt="BNP Logo" width="50" height="50"> | BNP Latest Promotions |  N.A
-| ⭐ | <img src="public/BANK_OF_CHINA.gif" alt="BANK_OF_CHINA Logo" width="60" height="15"> | Bank Of China Latest Promotions |  https://www.bankofchina.com/sg/bocinfo/bi2/
+| ⭐ | <img src="public/BANK-OF-CHINA.jpeg" alt="BANK_OF_CHINA Logo" width="60" height="15"> | Bank Of China Latest Promotions |  https://www.bankofchina.com/sg/bocinfo/bi2/
 
 
 [⬆️ Go to Top](#table-of-contents)
