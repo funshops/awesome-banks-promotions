@@ -23,6 +23,9 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/BANK-OF-CHINA.jpeg" alt="BANK_OF_CHINA Logo" width="60" height="15"> | Bank Of China Latest Promotions |  https://www.bankofchina.com/sg/bocinfo/bi2/
 | ⭐ | <img src="public/RHB.webp" alt="RHB Logo" width="60" height="15"> | RHB Latest Promotions |  https://www.rhbgroup.com/latest-promotions/index.html
 | ⭐ | <img src="public/POSB.webp" alt="POSB Logo" width="60" height="15"> | POSB Latest Promotions |  https://www.posb.com.sg/personal/cards/promotions/default.page
+| ⭐ | <img src="public/MARI-BANK.svg" alt="MARI Logo" width="60" height="15"> | Mari Bank Latest Promotions |  https://www.maribank.sg/promo
+| ⭐ | <img src="public/SMBC.png" alt="SMBC Logo" width="60" height="15"> | SMBC Bank Latest Promotions | https://www.smbctb.co.jp/en/campaign_seminar/
+| ⭐ | <img src="public/BNI.svg" alt="BNI Logo" width="60" height="15"> | BNI Bank Latest Promotions | https://www.bni.co.id/en-us/home/bni-promotion-events/banking-promotions
 
 
 [⬆️ Go to Top](#table-of-contents)
