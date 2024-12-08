@@ -26,6 +26,7 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/MARI-BANK.svg" alt="MARI Logo" width="60" height="15"> | Mari Bank Latest Promotions |  https://www.maribank.sg/promo
 | ⭐ | <img src="public/SMBC.png" alt="SMBC Logo" width="60" height="15"> | SMBC Bank Latest Promotions | https://www.smbctb.co.jp/en/campaign_seminar/
 | ⭐ | <img src="public/BNI.svg" alt="BNI Logo" width="60" height="15"> | BNI Bank Latest Promotions | https://www.bni.co.id/en-us/home/bni-promotion-events/banking-promotions
-
+| ⭐ | <img src="public/SBI.png" alt="SBI Logo" width="60" height="15"> | SBI Bank Latest Promotions | https://sg.statebank/sgd-promotions
+| ⭐ | <img src="public/ICICI.png" alt="ICICI Logo" width="60" height="15"> | ICICI Bank Latest Promotions | https://www.icicibank.com/offers
 
 [⬆️ Go to Top](#table-of-contents)
