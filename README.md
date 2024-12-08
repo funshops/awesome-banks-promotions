@@ -16,6 +16,9 @@ A branch list of Banks Promotions 2024.
 | ⭐ | <img src="public/CITI.svg" alt="CITI Logo" width="50" height="50"> | Citi Bank Latest Promotions |  https://www.citibank.com.sg/static/all-promo
 | ⭐ | <img src="public/HSBC.svg" alt="HSBC Logo" width="50" height="50"> | HSBC Bank Latest Promotions |  https://www.hsbc.com.sg/promotions/
 | ⭐ | <img src="public/GSX.png" alt="GSX Logo" width="20" height="20"> | GXS Bank Latest Promotions |  https://www.gxs.com.sg/rewards-boost
+| ⭐ | <img src="public/CIMB.svg" alt="CIMB Logo" width="20" height="20"> | CIMB Bank Latest Promotions |  https://www.cimb.com.sg/en/personal/promotions/latest-promotions.html
+| ⭐ | <img src="public/BANK-OF-SG.png" alt="Bank of Singapore Logo" width="20" height="20"> | Bank of Singapore Latest Promotions |  https://www.bankofsingapore.com/all-events.html?
+| ⭐ | <img src="public/MAYBANK.png" alt="MayBank Logo" width="20" height="20"> | MayBank Latest Promotions |  https://www.maybank2u.com.sg/en/promotions/deposits/index.page
 
 
 
